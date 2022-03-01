@@ -1,6 +1,6 @@
-####  Community list of GNSS CORS networks
+####  Community list of GNSS (Global Navigation Satellite System) CORS (Continuously Operating Reference Stations) networks
 
-You wish to add or change something? Open a [pull request](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/pulls) or [issue](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/issues).
+You wish to add or change something? Please open a [pull request](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/pulls) or [issue](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/issues).
 
 - [**Canada**, RTK Networks](https://webapp.geod.nrcan.gc.ca/geod/data-donnees/rtk.php?locale=en)
 - [**Canada**, Canadian Active Control System (CACS)](https://webapp.geod.nrcan.gc.ca/geod/data-donnees/cacs-scca.php?locale=en)
