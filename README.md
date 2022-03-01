@@ -2,6 +2,11 @@
 
 However, do not hesitate to contact me to keep it updated . You wish to add or change something? Please open a [pull request](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/pulls) or [issue](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/issues).
 
+## Continental networks
+[**Africa**, CORSMAP](http://corsmap.com/)
+[**Europe**, EUREF Permanent GNSS Network](https://www.epncb.oma.be/)
+
+## National networks
 - [**Canada**, RTK Networks](https://webapp.geod.nrcan.gc.ca/geod/data-donnees/rtk.php?locale=en)
 - [**Canada**, Canadian Active Control System (CACS)](https://webapp.geod.nrcan.gc.ca/geod/data-donnees/cacs-scca.php?locale=en)
 - [**Bosnia and Herzegovina**, FBIHPOS](http://fbihpos.katastar.ba/SBC/Account/Index?returnUrl=%2FSBC%2FAdmin)
