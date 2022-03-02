@@ -1,6 +1,6 @@
 #  Community list of GNSS (Global Navigation Satellite System) CORS (Continuously Operating Reference Stations) networks
 
-You wish to add or change something? Please send me an email [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/pulls) or an [issue](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/issues).
+You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/pulls) or an [issue](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/issues).
 
 ## Continent wide networks
 - [**Australia**, AUSCORS](https://www.auscors.ga.gov.au/status/)
