@@ -21,7 +21,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**France**, Reseau GNSS Permanent](http://rgp.ign.fr/STATIONS/)
 - [**Germany**, SAPOS](https://sapos.de/)
 - [**Greece**, HEPOS](https://www.hepos.gr/)
-- [**Italy**, Rete integrata Nazionale GNSS](http://ring.gm.ingv.it/)(http://retegnssveneto.cisas.unipd.it/gpsitn/)
+- [**Italy**, Rete integrata Nazionale GNSS](http://ring.gm.ingv.it/) [](http://retegnssveneto.cisas.unipd.it/gpsitn/)
 - [**India**, CORS](http://103.205.244.106/)
 - [**Poland**, ASG](http://www.asgeupos.pl/index.php)
 - [**Saudi Arabia**, KSA CORS](https://gasgi.gov.sa/en/products/geodesy/pages/ksa-cors.aspx)
