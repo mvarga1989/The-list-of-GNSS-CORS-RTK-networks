@@ -33,5 +33,5 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 ## Private networks
 - [**Czech Republic**, CzechGeo](https://www.pecny.cz/CzechGeo/)
 - [**Serbia**, GEOTAUR](https://geotaur.com/geotaurnet-cors-network/)
-- [** Italy**, La Rete GPS Veneto
+- [** Italy, Venice**, La Rete GPS Veneto](http://retegnssveneto.cisas.unipd.it/Web/page.php?pid=gmap&link=Stazioni_GNSS&chain=6)
 
