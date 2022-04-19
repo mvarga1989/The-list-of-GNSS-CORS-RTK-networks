@@ -25,8 +25,10 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**India**, CORS](http://103.205.244.106/)
 - [**Poland**, ASG](http://www.asgeupos.pl/index.php)
 - [**Saudi Arabia**, KSA CORS](https://gasgi.gov.sa/en/products/geodesy/pages/ksa-cors.aspx)
+- [**Sri Lanka**, CORS net](https://corsnet.lk/)
 - [**Sweden**, SWEPOS](https://swepos.lantmateriet.se/)
 - [**Switzerland**, AGNES](http://pnac.swisstopo.admin.ch/pages/en/agnes-status.html)
+- [**Switzerland**, REFNET](https://www.refnet.ch/)
 - [**Ukraine**, ZAKPOS](http://zakpos.zakgeo.com.ua/index.php?option=com_content&task=view&id=18&Itemid=86)
 - [**USA**, NOAA CORS](https://geodesy.noaa.gov/CORS_Map/)
 
