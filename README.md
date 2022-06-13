@@ -21,8 +21,8 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**France**, Reseau GNSS Permanent](http://rgp.ign.fr/STATIONS/)
 - [**Germany**, SAPOS](https://sapos.de/)
 - [**Greece**, HEPOS](https://www.hepos.gr/)
-- [**Italy**, Rete integrata Nazionale GNSS](http://ring.gm.ingv.it/) [](http://retegnssveneto.cisas.unipd.it/gpsitn/)
 - [**India**, CORS](http://103.205.244.106/)
+- [**Italy**, Rete integrata Nazionale GNSS](http://ring.gm.ingv.it/) [](http://retegnssveneto.cisas.unipd.it/gpsitn/)
 - [**Poland**, ASG](http://www.asgeupos.pl/index.php)
 - [**Saudi Arabia**, KSA CORS](https://gasgi.gov.sa/en/products/geodesy/pages/ksa-cors.aspx)
 - [**Sri Lanka**, CORS net](https://corsnet.lk/)
@@ -35,6 +35,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 
 ## Private networks
 - [**Czech Republic**, CzechGeo](https://www.pecny.cz/CzechGeo/)
-- [**Serbia**, GEOTAUR](https://geotaur.com/geotaurnet-cors-network/)
 - [**Italy, Venice**, La Rete GPS Veneto](http://retegnssveneto.cisas.unipd.it/Web/page.php?pid=gmap&link=Stazioni_GNSS&chain=6)
+- [**Serbia**, GEOTAUR](https://geotaur.com/geotaurnet-cors-network/)
+
 
