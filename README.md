@@ -9,8 +9,8 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**Australia**, AUSCORS](https://www.auscors.ga.gov.au/status/)
 - [**Africa**, CORSMAP](http://corsmap.com/)
 - [**Europe**, EUREF Permanent GNSS Network](https://www.epncb.oma.be/)
-- [**E-GVAP**]
-- [**EPOS-GNSS**]
+- [**E-GVAP**]()
+- [**EPOS-GNSS**]()
 - [**North and South America**, SIRGAS](https://sirgas.ipgh.org/en/gnss-network/introduction/)
 
 
