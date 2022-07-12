@@ -3,7 +3,7 @@
 You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/pulls) or an [issue](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/issues).
 ## GNSS CORS network metadata
 - [**M3G**, Metadata Management and Distribution System for Multiple GNSS Networks](https://gnss-metadata.eu/site/ocoverview)
-- [**https://www.sonel.org/-Data-providers-125-.html**](https://www.sonel.org/-Data-providers-125-.html)
+- [**SONEL**](https://www.sonel.org/-Data-providers-125-.html)
 
 
 ## Continent wide networks
