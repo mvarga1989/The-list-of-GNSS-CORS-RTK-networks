@@ -1,6 +1,6 @@
 #  Community list of GNSS (Global Navigation Satellite System) CORS (Continuously Operating Reference Stations) networks
 
-You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/pulls) or an [issue](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/issues).
+Contributors are more than welcome. You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/pulls) or an [issue](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/issues).
 ## GNSS CORS network metadata
 - [**M3G**, Metadata Management and Distribution System for Multiple GNSS Networks](https://gnss-metadata.eu/site/ocoverview)
 - [**SONEL**](https://www.sonel.org/-Data-providers-125-.html)
