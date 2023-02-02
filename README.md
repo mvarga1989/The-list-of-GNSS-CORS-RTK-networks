@@ -9,7 +9,6 @@ Contributors are more than welcome. You wish to add or change something? Please 
 - [**Africa**, CORSMAP](http://corsmap.com/)
 - [**Asia-Pacific Reference Frame**, APREF](http://www.ga.gov.au/scientific-topics/positioning-navigation/geodesy/asiapacific-reference-frame#heading-5)
 - [**Asia-Pacific**, AFREF](http://afrefdata.org/)
-- [**Australia**, AUSCORS](https://www.auscors.ga.gov.au/status/)
 - [**Australia**, Australian Regional GPS Network](http://www.ga.gov.au/geodesy/argn/)
 - [**Bay Area Deformation Array**, USGS/UC Berkeley](http://seismo.berkeley.edu/bard/)
 - [**Continuously operating Caribbean GPS Observational Network**, COCONet](http://coconet.unavco.org/)
