@@ -98,13 +98,14 @@ Contributors are more than welcome. You wish to add or change something? Please 
 
 
 
-## Private networks
-- [**Czech Republic**, CzechGeo](https://www.pecny.cz/CzechGeo/)
+## Private global networks
 - [**Hexagon Tracking Network**](https://hxgnsmartnet.com)
-- [**Italy, Venice**, La Rete GPS Veneto](http://retegnssveneto.cisas.unipd.it/Web/page.php?pid=gmap&link=Stazioni_GNSS&chain=6)
+- [**Onocoy**, a community-powered GNSS RTK reference station network, that rewards reference station owners and provides high-quality RTK corrections using blockchain technology](https://www.onocoy.com/)
 - [**PointoneNav**, RTK Corrections, Worldwide](https://pointonenav.com/)
-- [**Serbia**, GEOTAUR](https://geotaur.com/geotaurnet-cors-network/)
 - [**TopnetLive**](http://www.topnetlive.com/)
 - [**Trimble Stations**](https://www.trimble.com/trs/findtrs.asp)
 
-
+## Private local networks
+- [**Czech Republic**, CzechGeo](https://www.pecny.cz/CzechGeo/)
+- [**Italy, Venice**, La Rete GPS Veneto](http://retegnssveneto.cisas.unipd.it/Web/page.php?pid=gmap&link=Stazioni_GNSS&chain=6)
+- [**Serbia**, GEOTAUR](https://geotaur.com/geotaurnet-cors-network/)
