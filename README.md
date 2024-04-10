@@ -3,9 +3,13 @@
 Contributors are more than welcome. You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/pulls) or an [issue](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/issues).
 ## GNSS CORS network metadata
 - [**List of RTK correction services in your Country, ArduSimple**](https://www.ardusimple.com/rtk-correction-services-in-your-country/)
+- [IGS BKG BunD permanent stations list**](https://igs.bkg.bund.de/stations)
 - [**M3G**, Metadata Management and Distribution System for Multiple GNSS Networks](https://gnss-metadata.eu/site/ocoverview)
 - [**SONEL**](https://www.sonel.org/-Data-providers-125-.html)
 
+
+## List of GPS/GNSS stations with coordinates, velocities
+- [**Nevada Geodetic Laboratory**](http://geodesy.unr.edu/NGLStationPages/GlobalStationList)
 
 ## Continent wide networks
 - [**Africa**, CORSMAP](http://corsmap.com/)
@@ -24,6 +28,7 @@ Contributors are more than welcome. You wish to add or change something? Please 
 - [**Parkfield, California Crustal Deformation Measurements**, ](https://earthquake.usgs.gov/monitoring/gps/Parkfield)
 - [**Plate Boundary Observatory**, Western United States](http://www.unavco.org/projects/major-projects/pbo/pbo.html)
 - [**SIRGAS Continuously Operating Stations**, ](http://www.sirgas.org/en/sirgas-con-network/stations/)
+- [**SIRGAS**](https://sirgas.ipgh.org/en/gnss-network/stations/station-list/)
 - [**SONEL**](http://www.sonel.org/-GPS-.html)
 - [**The Southern California Integrated GPS Network**](http://www.scign.org/)
 - [**UNAVCO Network**](https://www.unavco.org/instrumentation/networks/status/all)
@@ -75,6 +80,7 @@ Contributors are more than welcome. You wish to add or change something? Please 
 - [**Rwanda**, ](http://197.243.38.46/spiderweb/frmIndex.aspx)
 - [**Saudi Arabia**, KSA CORS](https://gasgi.gov.sa/en/products/geodesy/pages/ksa-cors.aspx)
 - [**Saudi Arabia**, MOMRA Geodetic Networks](https://www.gcs.gov.sa/En/ProductsAndServices/Products/GeodesyandLand-Survey/pages/cors.aspx)
+- [**Singapore**, Singapore Satellite Positioning Reference Network](https://app.sla.gov.sg/sirent/Page/ReferenceStations)
 - [**Serbia**, AGROS](http://www.agros.rgz.gov.rs/)
 - [**Slovak Republic**, SKPOS](http://www.skpos.gku.sk)
 - [**Slovakia**, http://www.skpos.gku.sk/en/](http://www.skpos.gku.sk/en/)
@@ -109,3 +115,7 @@ Contributors are more than welcome. You wish to add or change something? Please 
 - [**Czech Republic**, CzechGeo](https://www.pecny.cz/CzechGeo/)
 - [**Italy, Venice**, La Rete GPS Veneto](http://retegnssveneto.cisas.unipd.it/Web/page.php?pid=gmap&link=Stazioni_GNSS&chain=6)
 - [**Serbia**, GEOTAUR](https://geotaur.com/geotaurnet-cors-network/)
+
+
+## MGEX products, ephemerides, station coordinates, International GNSS service 
+- [**MGEX**](https://igs.bkg.bund.de/browseFiles)
