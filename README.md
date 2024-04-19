@@ -1,6 +1,9 @@
 #  Community list of GNSS (Global Navigation Satellite System) CORS (Continuously Operating Reference Stations) networks
 
-Contributors are more than welcome. You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/pulls) or an [issue](https://github.com/mvarga1989/GNSS-CORS-RTK-networks/issues).
+#### You wish to assist in making the list more useful, complete and accurate? Contributors are more than welcome. Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).
+#### If my content has added any value to your work, please consider giving it a :star: and/or share on your professional social networks. Thank you!
+#### Other useful lists that I am maintaining [lists link](https://github.com/mvarga1989#community-lists-that-i-am-maintaining)
+
 ## GNSS CORS network metadata
 - [**List of RTK correction services in your Country, ArduSimple**](https://www.ardusimple.com/rtk-correction-services-in-your-country/)
 - [IGS BKG BunD permanent stations list**](https://igs.bkg.bund.de/stations)
