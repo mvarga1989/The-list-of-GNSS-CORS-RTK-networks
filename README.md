@@ -17,7 +17,7 @@
 ## Continent wide networks
 - [**Africa**, CORSMAP](http://corsmap.com/)
 - [**Asia-Pacific Reference Frame**, APREF](http://www.ga.gov.au/scientific-topics/positioning-navigation/geodesy/asiapacific-reference-frame#heading-5)
-- [**Asia-Pacific**, AFREF](http://afrefdata.org/)
+- [**Africa**, AFREF](http://afrefdata.org/)
 - [**Australia**, Australian Regional GPS Network](http://www.ga.gov.au/geodesy/argn/)
 - [**Bay Area Deformation Array**, USGS/UC Berkeley](http://seismo.berkeley.edu/bard/)
 - [**Continuously operating Caribbean GPS Observational Network**, COCONet](http://coconet.unavco.org/)
@@ -63,6 +63,7 @@
 - [**Hungary**, GNSSnet.hu](https://www.gnssnet.hu/)
 - [**India**, ](http://www.isgn.gov.in/ISGN/)
 - [**India**, CORS](http://103.205.244.106/)
+- [**India**, National CORS Network](https://corsnet.gov.in) [5]
 - [**Indonesia**, InaCORS](http://nrtk.big.go.id/sbc)
 - [**Italy**, Rete integrata Nazionale GNSS](http://ring.gm.ingv.it/) [](http://retegnssveneto.cisas.unipd.it/gpsitn/)
 - [**Japan**, ](http://www.gsi.go.jp/ENGLISH/page_e30030.html)
@@ -104,7 +105,7 @@
 - [**Ukraine**, ZAKPOS](http://zakpos.zakgeo.com.ua/)
 - [**United Kingdom**, OSNet](https://www.ordnancesurvey.co.uk/gps/os-net-rinex-data/)
 - [**USA**, NOAA CORS](https://geodesy.noaa.gov/CORS_Map/)
-
+- [**USA-Arizona**, AZCORS](https://www.azwater.gov/hydrology/azcors) [6]
 
 
 ## Private global networks
@@ -113,6 +114,7 @@
 - [**PointoneNav**, RTK Corrections, Worldwide](https://pointonenav.com/)
 - [**TopnetLive**](http://www.topnetlive.com/)
 - [**Trimble Stations**](https://www.trimble.com/trs/findtrs.asp)
+- [**RockRobotic**](https://cloud.rockrobotic.com/rock-network)
 
 ## Private local networks
 - [**Czech Republic**, CzechGeo](https://www.pecny.cz/CzechGeo/)
