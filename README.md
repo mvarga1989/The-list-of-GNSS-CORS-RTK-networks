@@ -27,6 +27,7 @@
 - [**Europe**, EUREF Permanent GNSS Network](https://www.epncb.oma.be/)
 - [**IGS Tracking Network**](http://www.igs.org/network)
 - [**North and South America**, SIRGAS](https://sirgas.ipgh.org/en/gnss-network/introduction/)
+- [**NOAA Caribbean CORS**](https://geodesy.noaa.gov/CORS_Map/) (Aruba, Providencia, Curacao, Dominican Republic stations)
 - [**Pacific Northwest Geodetic Array**, ](http://www.panga.cwu.edu/)
 - [**Parkfield, California Crustal Deformation Measurements**, ](https://earthquake.usgs.gov/monitoring/gps/Parkfield)
 - [**Plate Boundary Observatory**, Western United States](http://www.unavco.org/projects/major-projects/pbo/pbo.html)
@@ -36,12 +37,19 @@
 - [**The Southern California Integrated GPS Network**](http://www.scign.org/)
 - [**UNAVCO Network**](https://www.unavco.org/instrumentation/networks/status/all)
 
+
+
+
+
+
+
 ## Nationwide networks
 - [**Albania**, ALBPOS](https://krgjsh.asig.gov.al/?page_id=1210&lang=en)
 - [**Algeria**, AlgCORS](http://www.inct.mdn.dz/site%20anglais/web_inct_sim/gps.php)
 - [**Argentina**, ](http://www.copa.org.ar/Eljalon/estaciones.htm)
 - [**Argentina**, RAMSAC](https://www.ign.gob.ar/NuestrasActividades/Ramsac/EstacionesPermanentes)
 - [**Australia**, AUSCORS](https://www.auscors.ga.gov.au/status/)
+- [**Australia-NSW, CORSnet-NSW**](https://www.corsnet.com.au/)  
 - [**Austria**, APOS](https://www.bev.gv.at/portal/page?_pageid=713,3175360&_dad=portal&_schema=PORTAL)
 - [**Belarus**, GNSS Network for Precise Positioning](http://geo.by/ru/for-organizations/precise-positioning-service)
 - [**Belgium**](http://gnss.be/networks_tutorial.php)
@@ -54,13 +62,17 @@
 - [**China**, SZCORS](http://www.szpl.gov.cn)
 - [**Croatia**, CROPOS](http://195.29.198.194/Map/SensorMap.aspx)
 - [**Czech Republic**, CZEPOS](http://czepos.cuzk.cz/)
+- [**Denmark, SATNET**](https://satnet.nst.dk)  
 - [**Estonia**, ESTPOS](https://www.maaamet.ee)
+- [**Finland, FinnRef**](https://www.maanmittauslaitos.fi/en/geodetic-infrastructure/gnss-stations)  
 - [**France**, Reseau GNSS Permanent](http://rgp.ign.fr/STATIONS/)
 - [**France**, RGP](http://rgp.ign.fr/)
 - [**German National Survey Satellite Positioning Service**, SAPOS](https://www.sapos.de/)
 - [**Germany**, SAPOS](https://sapos.de/)
+- [**Greenland, GNET**](https://gnet.gl/) 
 - [**Greece**, HEPOS](https://www.hepos.gr/)
 - [**Hungary**, GNSSnet.hu](https://www.gnssnet.hu/)
+- [**Iceland, ISGPS**](https://www.lmi.is/isgps)  
 - [**India**, ](http://www.isgn.gov.in/ISGN/)
 - [**India**, CORS](http://103.205.244.106/)
 - [**India**, National CORS Network](https://corsnet.gov.in) [5]
@@ -78,6 +90,7 @@
 - [**Netherlands**, Dutch Permanent GNSS Array (DPGA)](http://gnss1.tudelft.nl/dpga/)
 - [**New Zealand**, GeoNet](https://www.geonet.org.nz/)
 - [**New Zealand**, PositioNZ](https://www.linz.govt.nz/data/geodetic-services/positionz)
+- [**Norway, CPOS**](https://www.kartverket.no/en/geodata/work-with-geodata/cpos)  
 - [**Nigeria**, NIGNET](http://segal.ubi.pt/GNSS/NIGNET/intro.html)
 - [**Poland**, ASG-EUPOS](http://www.asgeupos.pl)
 - [**Romania**, ROMPOS](http://www.rompos.ro)
@@ -90,12 +103,14 @@
 - [**Slovakia**, http://www.skpos.gku.sk/en/](http://www.skpos.gku.sk/en/)
 - [**Slovenia**, SIGNAL](http://www.gu-signal.si/)
 - [**South Africa**, TrigNet CORS](http://www.trignet.co.za/)
+- [**South Korea, KGNSS**](https://www.ngii.go.kr/en/subpage.do?menuCode=EN%20020200) 
 - [**Spain**, ERGNSS](https://www.ign.es/web/ign/portal/gds-gnss-estaciones-permanentes)
 - [**Sri Lanka**, CORS net](https://corsnet.lk/)
 - [**Sri Lanka**, SLSCORSNET](http://www.slcorsnet.survey.gov.lk/)
 - [**Sweden**, SWEPOS](https://swepos.lantmateriet.se/)
 - [**Switzerland**, AGNES](http://pnac.swisstopo.admin.ch/)
 - [**Switzerland**, REFNET](https://www.refnet.ch/)
+- [**Thailand, Thai CORS Network**](https://www.gistda.or.th/main/en?q=node/105)  
 - [**Turkey**, TNPGN](https://www.harita.gov.tr/english/u-11-turkish-national-permanent-gnssnetwork--tnpgn-.html)
 - [**Turkey**](http://cors-tr.iku.edu.tr/ENGLISH.htm)
 - [**Ukraine**, MAO GNSS](http://gnss.mao.kiev.ua/)
@@ -104,22 +119,33 @@
 - [**Ukraine**, TNT-TPI GNSS Network](https://net.tnt-tpi.com/page/bss)
 - [**Ukraine**, ZAKPOS](http://zakpos.zakgeo.com.ua/)
 - [**United Kingdom**, OSNet](https://www.ordnancesurvey.co.uk/gps/os-net-rinex-data/)
-- [**USA**, NOAA CORS](https://geodesy.noaa.gov/CORS_Map/)
+- [**USA, NOAA CORS**](https://geodesy.noaa.gov/CORS_Map/)
 - [**USA-Arizona**, AZCORS](https://www.azwater.gov/hydrology/azcors) [6]
-
+- [**USA Cayman Islands GNSS Network**](https://caymanlands.ky)  
+- [**USA Bahamas CORS Network**](https://geodesy.noaa.gov/CORS_Map/) (Sansalvador/CN13, GreatInagua/CN14, GrandBahama/CN15)  
+- [**USA Bermuda CORS**](https://geodesy.noaa.gov/CORS_Map/) (Bermuda BIOS/BRSG)  
+- [**USA Alabama, Alabama CORS Network**](https://www.dot.state.al.us/PageAssets/Divisions/Design/BureauofSurveysandPlans/GeodeticSurvey/Surveying/ALCORS/ALCORS.html)  
+- [**USA Arkansas, Arkansas RTN**](https://www.arkansastn.com/)  
+- [**USA Maine, MaineDOT CORS**](https://www.maine.gov/mdot/cors/)  
 
 ## Private global networks
 - [**Hexagon Tracking Network**](https://hxgnsmartnet.com)
 - [**Onocoy**, a community-powered GNSS RTK reference station network, that rewards reference station owners and provides high-quality RTK corrections using blockchain technology](https://www.onocoy.com/)
+- [**GEODNET**](https://www.geodnet.com) (Blockchain-based global network)  
 - [**PointoneNav**, RTK Corrections, Worldwide](https://pointonenav.com/)
 - [**TopnetLive**](http://www.topnetlive.com/)
 - [**Trimble Stations**](https://www.trimble.com/trs/findtrs.asp)
 - [**RockRobotic**](https://cloud.rockrobotic.com/rock-network)
+- [**u-blox PointPerfect Flex**](https://www.u-blox.com/en/product/pointperfect) (Low-cost RTK-SSR service) 
 
 ## Private local networks
 - [**Czech Republic**, CzechGeo](https://www.pecny.cz/CzechGeo/)
 - [**Italy, Venice**, La Rete GPS Veneto](http://retegnssveneto.cisas.unipd.it/Web/page.php?pid=gmap&link=Stazioni_GNSS&chain=6)
 - [**Serbia**, GEOTAUR](https://geotaur.com/geotaurnet-cors-network/)
+
+## **Specialized Services (New Section)**
+- [**Galileo High Accuracy Service (HAS)**](https://www.gsc-europa.eu/galileo/services/galileo-high-accuracy-service) (Free global 40cm-accuracy service)  
+
 
 
 ## MGEX products, ephemerides, station coordinates, International GNSS service 
