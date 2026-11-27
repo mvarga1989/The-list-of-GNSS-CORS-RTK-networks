@@ -1,0 +1,39 @@
+name: Provjera linkova
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # svaki ponedjeljak u 06:00 UTC
+  workflow_dispatch:       # rucno pokretanje: Actions -> Provjera linkova -> Run workflow
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Provjeri linkove
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --max-retries 2
+            --timeout 30
+            --accept 200,201,202,203,204,206,301,302,303,307,308,403,429
+            --exclude-mail
+            --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"
+            './**/*.md'
+          output: ./lychee/out.md
+          fail: false
+
+      - name: Otvori issue s neispravnim linkovima
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Neispravni linkovi (automatska provjera)
+          content-filepath: ./lychee/out.md
+          labels: broken-links
